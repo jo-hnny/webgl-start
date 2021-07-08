@@ -594,7 +594,7 @@ $$
 # 纹理映射
 贴图，将一张图片贴到一个几何图形的表面
 
-<img src="/img/gren.jpg" class="w-100 mx-auto  shadow"/>
+<img src="/img/green.jpg" class="w-100 mx-auto  shadow"/>
 
 ---
 
