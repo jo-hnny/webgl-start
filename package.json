@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "dev": "slidev --open",
-    "build": "slidev build --base ./",
+    "build": "slidev build --base /webgl-start",
     "export": "slidev export"
   },
   "dependencies": {
