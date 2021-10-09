@@ -1,6 +1,8 @@
 ---
 # try also 'default' to start simple
 theme: seriph
+
+download: true
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://source.unsplash.com/collection/94734566/1920x1080
@@ -33,11 +35,8 @@ The last comment block of each slide will be treated as slide notes. It will be 
 - **Hello world** - 怎么用 WebGL 画一个点
 - **数据输入** - 如何通过鼠标在指定位置画一个点
 - **输入多条数据** - 如何用鼠标画一条线
-- **构成三维模型的基本单位** - 三角形绘制与基本变幻
+- **构成三维模型的基本单位** - 三角形绘制与基本变换
 - **纹理** - 渲染图片
-- **三维世界** - 绘制一个三维立方体
-- **更加真实** - 给三维物体添加光照效果
-- **未来** - WebGPU 介绍
 
 <style>
 h1 {
@@ -737,5 +736,8 @@ class ImageAdjust {
 
 ---
 
-# 3D
-
+# 资料
+- WebGL编程指南
+- [webgl2fundamentals](https://webgl2fundamentals.org/webgl/lessons/zh_cn/webgl-fundamentals.html#toc)
+- [The Book of Shaders](https://thebookofshaders.com/?lan=ch)
+- [webgl water](http://madebyevan.com/webgl-water/)
